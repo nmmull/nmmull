@@ -1,8 +1,3 @@
----
-title: NATHAN MULL
----
-# My name is *NATHAN MULL*.<br>I'm a graduate student.<br>This is my website.
-
 I'm a PhD student in the UChicago CS department.
 I'm interested in logic and computing.
 I've spent some time thinking about proof complexity and SAT-solvers, but more recently I've been thinking about pure type systems and normalization.
